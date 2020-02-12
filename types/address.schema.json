@@ -10,7 +10,7 @@
   {
   "properties": {
     "geo": {
-      "description": "geo",
+      "description": "geoAna",
       "type": "object",
       "properties": {
         "latitude": {
